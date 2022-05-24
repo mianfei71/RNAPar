@@ -2,6 +2,9 @@
 * Ubuntu 18.04.5 LTS
 * TensorFlow 1.14.0
 * Keras 2.2.4
+* Cuda V9.1.85
+* Cudnn 7.6
+* H5py 2.10.0
 
 2. Input
 * Fasta file with one or more RNA sequences. Only A, C, G, U, and ‘-’ are allowed in RNA sequence.
